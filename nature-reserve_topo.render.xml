@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<renderingStyle name="nature reserve" depends="topo" defaultColor="#ebe7e4" version="1">
+<renderingStyle name="nature reserve (topo)" depends="topo" defaultColor="#ebe7e4" version="1">
 
 	<renderingProperty attr="appMode" name="Rendering mode" description="Map optimization for respective User Profile"
 		type="string" possibleValues=""/>
